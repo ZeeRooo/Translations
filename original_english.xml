@@ -2,7 +2,6 @@
 <resources>
     <!-- Notifications -->
     <string name="notifications_setting_title">NOTIFICATIONS</string>
-
     <string name="you_have_one_message">You have one message.</string>
     <string name="notification_viewall">View all notifications</string>
     <string name="messages_viewall">View all messages</string>
@@ -93,10 +92,8 @@
     <!-- End navigation -->
 
     <!-- App -->
-    <string name="app_name">MaterialFBook</string>
 	<string name="silent">No sound</string>
 	<string name="file_logger_needs_permission">No access to external storage. Log cannot be saved</string>
-    <string name="facebook_app_id" translatable="false">1440102826005611</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="default_user">Who are you?</string>
@@ -120,5 +117,19 @@
     <string name="error_facebook_error">Something went wrong on Facebook\'s end</string>
     <string name="loading">Loading</string>
     <string name="permission_denied">Permission denied, cannot complete action</string>
+	
+	<!-- About -->
+    <string name="more">More and credits</string>
+    <string name="about_updates">Updates</string>
+    <string name="updates">Check for a new version</string>
+    <string name="updates_summary">Load the page and download the latest version</string>
+    <string name="people_who_translated">Users who translated the app</string>
+    <string name="devs_who_helped_me">Developers who helped me asking my questions and taking code from their apps</string>
+	<string name="help_translations">Help me to translate the app to your language</string>
+	<string name="about_translations">¡Help, we need you!</string>
+    <string name="source_code">Source code on Github</string>
+    <string name="withYou">Report bugs or requst new features</string>
+    <string name="changelog">Changelog</string>
+    <!-- End about -->
 
 </resources>

@@ -118,5 +118,19 @@
     <string name="error_facebook_error">臉書的伺服器出了些問題</string>
     <string name="loading">讀取中</string>
     <string name="permission_denied">沒有權限</string>
+	
+	<!-- About -->
+    <string name="more">More and credits</string>
+    <string name="about_updates">Updates</string>
+    <string name="updates">Check for a new version</string>
+    <string name="updates_summary">Load the page and download the latest version</string>
+    <string name="people_who_translated">Users who translated the app</string>
+    <string name="devs_who_helped_me">Developers who helped me asking my questions and taking code from their apps</string>
+	<string name="help_translations">Help me to translate the app to your language</string>
+	<string name="about_translations">¡Help, we need you!</string>
+    <string name="source_code">Source code on Github</string>
+    <string name="withYou">Report bugs or requst new features</string>
+    <string name="changelog">Changelog</string>
+    <!-- End about -->
 
 </resources>

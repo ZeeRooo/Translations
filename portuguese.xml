@@ -118,5 +118,19 @@
     <string name="error_facebook_error">Algo deu errado no fim do Facebook</string>
     <string name="loading">Carregando</string>
     <string name="permission_denied">Permissão negada, ação não pode ser completada</string>
+	
+	<!-- About -->
+    <string name="more">Mais e créditos</string>
+    <string name="about_updates">Atualizações</string>
+    <string name="updates">Verifique se há uma nova versão</string>
+    <string name="updates_summary">Carregar a página e baixar a última versão</string>
+    <string name="people_who_translated">Os usuários que traduziram o aplicativo</string>
+    <string name="devs_who_helped_me">Os devs que me ajudou a pedir minhas perguntas e tendo código a partir de seus aplicativos</string>
+	<string name="help_translations">Ajuda a traduzir o aplicativo para seu idioma</string>
+	<string name="about_translations">¡Ajuda, precisamos de você!</string>
+    <string name="source_code">O código fonte em Github</string>
+    <string name="withYou">Relatar erros ou solicitar novos recursos</string>
+    <string name="changelog">Changelog</string>
+    <!-- End about -->
 
 </resources>
