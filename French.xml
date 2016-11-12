@@ -39,6 +39,8 @@
     <string name="hide_sponsored_summary">Masque les contenus sponsorisés (publicités) du fil d\'actualité.</string>
     <string name="hide_birthdays_title">Masquer les anniversaires</string>
     <string name="hide_birthdays_summary">Masque les anniversaires du fil d\'actualité.</string>
+	<string name="hide_newsfeedcontent">Hide News Feed content</string>
+    <string name="hide_newsfeedcontent_summary">When enabled, will hide News Feed content.</string>
     <!-- End general -->
 
     <!-- Appearence -->

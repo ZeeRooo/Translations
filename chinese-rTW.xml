@@ -39,6 +39,8 @@
     <string name="hide_sponsored_summary">這項功能開啟後，系統將會隱藏你塗鴉牆上顯示「贊助」的內容（也就是俗稱的擋廣告）。</string>
     <string name="hide_birthdays_title">Hide Birthdays</string>
     <string name="hide_birthdays_summary">When enabled, will hide birthdays from the News Feed.</string>
+	<string name="hide_newsfeedcontent">Hide News Feed content</string>
+    <string name="hide_newsfeedcontent_summary">When enabled, will hide News Feed content.</string>
     <!-- End general -->
 
     <!-- Appearence -->
