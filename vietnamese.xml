@@ -40,8 +40,8 @@
     <string name="hide_sponsored_summary">Khi được kích hoạt, sẽ ẩn nội dung được tài trợ (quảng cáo) từ dòng thời gian.</string>
     <string name="hide_birthdays_title">Ẩn sinh nhật</string>
     <string name="hide_birthdays_summary">Khi được kích hoạt, sẽ ẩn sinh nhật từ dòng thời gian.</string>
-	<string name="hide_newsfeedcontent">Hide News Feed content</string>
-    <string name="hide_newsfeedcontent_summary">When enabled, will hide News Feed content.</string>
+	<string name="hide_newsfeedcontent">Ẩn nội dung Dòng thời gian</string>
+    <string name="hide_newsfeedcontent_summary">Khi được kích hoạt, sẽ ẩn nội dung Dòng thời gian.</string>
     <!-- End general -->
 
     <!-- About -->
