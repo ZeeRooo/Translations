@@ -11,7 +11,7 @@
 
 **Note 1: Please write wich language is**
 
-Note 2: you can send me a email with the line or file translated at: _chavesjuan400@gmail.com_
+Note 2: you can send me a email with the line or file translated at: _chavesjuan400@gmail.com_**
 
 
 **Thanks a lot:**
