@@ -75,6 +75,8 @@
     <string name="navigation_menu_settings_description">Bạn có thể hiển thị/ẩn các mục trong điều hướng menu.</string>
     <string name="save_data">Lưu dữ liệu</string>
     <string name="save_data_summary">Khi được kích hoạt, tự động cấu hình ứng dụng sẽ lưu dữ liệu</string>
+    <string name="orbot">Use Orbot</string>
+    <string name="orbot_summary">Force all traffic to Orbot.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Đăng trạng thái</string>
     <string name="fab_photo">Đăng ảnh</string>
