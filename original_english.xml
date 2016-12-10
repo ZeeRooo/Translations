@@ -74,11 +74,11 @@
     <string name="navigation_menu_settings">Navigation menu items</string>
     <string name="navigation_menu_settings_description">You can show/hide items in the navigation menu.</string>
     <string name="save_data">Save data</string>
-    <string name="save_data_summary">When enabled, the app autoconfigure to save data.</string>
+    <string name="save_data_summary">When enabled, the app autoconfigure to save data</string>
     <string name="orbot">Use Orbot</string>
     <string name="orbot_summary">Force all traffic to Orbot.</string>
     <string name="bottom_navigation_view">Bottom navigation view</string>
-    <string name="summary_bottom_navigation_view">Configure the Bottom Navigation View.</string>	
+    <string name="summary_bottom_navigation_view">Configure the Bottom Navigation View.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Post a status</string>
     <string name="fab_photo">Post a photo</string>
@@ -116,16 +116,19 @@
     <!-- End navigation -->
     <!-- BottomnavigationView -->
     <string name="bottomnavigationview_configs">BOTTOMNAVIGATIONVIEW CONFIG</string>
-    <string name="summary_shifting">When enabled, the item selected grow up.</string>
+	<string name="shifting">Disable shifting</string>
+    <string name="summary_shifting">When disabled, all items have the same size.</string>
     <string name="only_icons">Only icons</string>
     <string name="item_shifting">Show text in all items</string>
     <string name="summary_item_shifting">In selected and unselected.</string>
     <string name="only_text">Only text</string>
     <!-- End BottomNavigationView -->
-	
+
     <!-- App -->
+    <string name="app_name">MaterialFBook</string>
     <string name="silent">No sound</string>
     <string name="file_logger_needs_permission">No access to external storage. Log cannot be saved</string>
+    <string name="facebook_app_id" translatable="false">1440102826005611</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="default_user">User</string>
@@ -149,5 +152,8 @@
     <string name="error_facebook_error">Something went wrong on Facebook\'s end</string>
     <string name="loading">Loading</string>
     <string name="permission_denied">Permission denied, cannot complete action</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
