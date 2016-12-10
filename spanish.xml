@@ -100,7 +100,7 @@
     <string name="messaging_enabled_summary">Habilitalo para usar los mensajes de Facebook. Deshabilitalo si usas otra app de mensajería.</string>
     <!-- End navigation -->
     <!-- BottomnavigationView -->
-    <string name="bottomnavigationview_configs">CONFIGURACIÓN DE LA BARRA DE NAVEGACIÓN INFERIOR</string>
+    <string name="bottomnavigationview_configs">CONFIGURACIÓN DE LA BARRA DE NAVEGACIÓN INFERIOR ⟳</string>
 	<string name="shifting">Deshabilitar shifting</string>
     <string name="summary_shifting">Si está deshabilitado, todos los items tendrán el mismo tamaño.</string>
     <string name="only_icons">Sólo íconos</string>
@@ -135,6 +135,7 @@
     <string name="error_facebook_error">Something went wrong on Facebook\'s end</string>
     <string name="loading">Cargando</string>
     <string name="permission_denied">Permiso denegado, la acción no se pudo completar</string>
+    <string name="restart_needed">Reinicio necesario</string>
 
     <!-- About -->
     <string name="more">Créditos y más</string>

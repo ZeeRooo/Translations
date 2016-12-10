@@ -152,8 +152,6 @@
     <string name="error_facebook_error">Something went wrong on Facebook\'s end</string>
     <string name="loading">Loading</string>
     <string name="permission_denied">Permission denied, cannot complete action</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restart_needed">Restart needed</string>
 
 </resources>
