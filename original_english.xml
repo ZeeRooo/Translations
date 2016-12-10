@@ -77,6 +77,8 @@
     <string name="save_data_summary">When enabled, the app autoconfigure to save data.</string>
     <string name="orbot">Use Orbot</string>
     <string name="orbot_summary">Force all traffic to Orbot.</string>
+    <string name="bottom_navigation_view">Bottom navigation view</string>
+    <string name="summary_bottom_navigation_view">Configure the Bottom Navigation View.</string>	
     <!-- Navigation: fab -->
     <string name="fab_text">Post a status</string>
     <string name="fab_photo">Post a photo</string>
@@ -112,7 +114,15 @@
     <string name="messaging_enabled_title">Messaging</string>
     <string name="messaging_enabled_summary">When enabled, will provide access to Facebook Messages. Disable if you have a messaging app.</string>
     <!-- End navigation -->
-
+    <!-- BottomnavigationView -->
+    <string name="bottomnavigationview_configs">BOTTOMNAVIGATIONVIEW CONFIG</string>
+    <string name="summary_shifting">When enabled, the item selected grow up.</string>
+    <string name="only_icons">Only icons</string>
+    <string name="item_shifting">Show text in all items</string>
+    <string name="summary_item_shifting">In selected and unselected.</string>
+    <string name="only_text">Only text</string>
+    <!-- End BottomNavigationView -->
+	
     <!-- App -->
     <string name="silent">No sound</string>
     <string name="file_logger_needs_permission">No access to external storage. Log cannot be saved</string>
