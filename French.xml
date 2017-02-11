@@ -2,6 +2,8 @@
 <resources>
     <!-- Notifications -->
     <string name="notifications_setting_title">NOTIFICATIONS</string>
+	<string name="notif">Notifications</string>
+    <string name="notif_summary">New messages and general notifications.</string>
     <string name="you_have_one_message">Vous avez un message</string>
     <string name="notification_viewall">Voir toutes les notifications</string>
     <string name="messages_viewall">Voir tous les messages</string>
@@ -21,9 +23,6 @@
     <string name="led_light">LED de notification</string>
     <string name="flashlight_as_led">Flashlight as LED</string>
     <string name="flashlight_as_led_summary">Use the flashlight as LED for notifications (camera led).</string>
-    <string name="notifications_extra">Additionnel</string>
-    <string name="notifications_everywhere">Toujours notifier</string>
-    <string name="notifications_everywhere_description">Même quand vous êtes sur l’écran principal de l’application.</string>
     <!-- End Notifications -->
 
     <!-- General -->
@@ -39,8 +38,8 @@
     <string name="hide_sponsored_summary">Masque les contenus sponsorisés (publicités) du fil d\'actualité.</string>
     <string name="hide_birthdays_title">Masquer les anniversaires</string>
     <string name="hide_birthdays_summary">Masque les anniversaires du fil d\'actualité.</string>
-    <string name="hide_newsfeedcontent">Hide News Feed content</string>
-    <string name="hide_newsfeedcontent_summary">When enabled, will hide News Feed content.</string>
+    <string name="clearcache">Clear cache on exit</string>
+    <string name="clearcache_summary">It will take more time to open the app.</string>
     <!-- End general -->
 
     <!-- Appearence -->
@@ -60,8 +59,6 @@
     <string name="navigation_menu_settings_description">Vous pouvez afficher/masquer les objets du menu de navigation.</string>
     <string name="save_data">Enregistrer les données</string>
     <string name="save_data_summary">activé, l\'application consomment moins de données</string>
-    <string name="orbot">Use Orbot</string>
-    <string name="orbot_summary">Force all traffic to Orbot.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Poster un statut</string>
     <string name="fab_photo">Poster une photo</string>
@@ -70,30 +67,30 @@
     <!-- Navigation: items -->
     <string name="navigation_menu_title">MENU DE NAVIGATION</string>
     <string name="ic_menu_exitapp">Quitter l\'application</string>
-    <string name="ic_menu_exitapp_summary">Masque le bouton \'Quitter l\'application\' du menu de navigation.</string>
+    <string name="ic_menu_exitapp_summary">Masque le bouton &#8216;Quitter l&#8217;application&#8217; du menu de navigation.</string>
     <string name="ic_menu_fblogout">Déconnexion</string>
-    <string name="ic_menu_fblogout_summary">Masque le bouton \'Déconnexion\' du menu de navigation.</string>
+    <string name="ic_menu_fblogout_summary">Masque le bouton &#8216;Déconnexion&#8217; du menu de navigation.</string>
     <string name="menu_photos">Photos</string>
-    <string name="menu_photos_summary">Masque le bouton \'Photos\' du menu de navigation</string>
+    <string name="menu_photos_summary">Masque le bouton &#8216;Photos&#8217; du menu de navigation</string>
     <string name="menu_events">Evènements</string>
-    <string name="menu_events_summary">Masque le bouton \'Evènements\' du menu de navigation.</string>
+    <string name="menu_events_summary">Masque le bouton &#8216;Evènements&#8217; du menu de navigation.</string>
     <string name="menu_back">Retour</string>
-    <string name="menu_back_summary">Masque le bouton \'Retour\' du menu de navigation.</string>
+    <string name="menu_back_summary">Masque le bouton &#8216;Retour&#8217; du menu de navigation.</string>
     <string name="menu_news">Fil d\'actualité</string>
-    <string name="menu_news_summary">Masque le bouton \'Fil d\'actualité\' du menu de navigation.</string>
+    <string name="menu_news_summary">Masque le bouton &#8216;Fil d&#8216;actualité&#8217; du menu de navigation.</string>
     <string name="menu_top_stories">A la une</string>
-    <string name="menu_top_stories_summary">Masque le bouton \'A la une\' du menu de navigation.</string>
+    <string name="menu_top_stories_summary">Masque le bouton &#8216;A la une&#8217; du menu de navigation.</string>
     <string name="menu_most_recent">Le plus récent</string>
-    <string name="menu_most_recent_summary">Masque le bouton \'Le plus récent\' du menu de navigation.</string>
+    <string name="menu_most_recent_summary">Masque le bouton &#8216;Le plus récent&#8217; du menu de navigation.</string>
     <string name="menu_friendreq">Demande d\'ami</string>
-    <string name="menu_friendreq_summary">Masque le bouton \'Demande d\'ami\' du menu de navigation.</string>
+    <string name="menu_friendreq_summary">Masque le bouton &#8216;Demande d&#8217;ami&#8217; du menu de navigation.</string>
     <string name="menu_groups">Groupes</string>
-    <string name="menu_groups_summary">Masque le bouton \'Groupes\' du menu de navigation.</string>
+    <string name="menu_groups_summary">Masque le bouton &#8216;Groupes&#8217; du menu de navigation.</string>
     <string name="menu_messages">Messages</string>
     <string name="menu_search">Recherche</string>
-    <string name="menu_search_summary">Masque le bouton \'Recherche\' du menu de navigation.</string>
+    <string name="menu_search_summary">Masque le bouton &#8216;Recherche&#8217; du menu de navigation.</string>
     <string name="menu_mainmenu">Menu principal</string>
-    <string name="menu_mainmenu_summary">Masque le bouton \'Menu principal\' du menu de navigation.</string>
+    <string name="menu_mainmenu_summary">Masque le bouton &#8216;Menu principal&#8217; du menu de navigation.</string>
     <string name="messaging_enabled_title">Messagerie</string>
     <string name="messaging_enabled_summary">Active l’accès a Facebook Messenger.</string>
     <!-- End navigation -->
@@ -113,10 +110,9 @@
     <string name="context_copy_image_link">Copier le lien de l\'image</string>
     <string name="context_share_link">Enregistrer le lien</string>
     <string name="context_copy_link">Copier le lien</string>
-    <string name="context_share_image_progress">Partage de l\'image...</string>
+    <string name="context_share_image_progress">Partage de l\'image&#8230;</string>
     <string name="content_copy_link_done">Lien copié dans le presse papiers</string>
     <string name="login_button">Connexion</string>
-    <string name="share_text">Partage</string>
     <string name="not_logged_in">Vous n’êtes pas connecté</string>
     <string name="error_login">Quelque chose ne s’est pas bien déroulé, essayez de vous connecter à nouveau</string>
     <string name="error_super_wrong">Quelque chose ne s’est vraiment pas bien déroulé</string>
@@ -124,8 +120,8 @@
     <string name="error_facebook_error">Quelque chose ne s’est pas bien déroulé du côté de Facebook</string>
     <string name="loading">Chargement</string>
     <string name="permission_denied">Permission refusée, impossible de terminer l’action</string>
-	
-	<!-- About -->
+
+    <!-- About -->
     <string name="more">Plus d\'infos et crédits</string>
     <string name="about_updates">Mise a à jour</string>
     <string name="updates">Rechercher les mises à jour</string>
