@@ -2,19 +2,14 @@
 <resources>
     <!-- Notifications -->
     <string name="notifications_setting_title">NOTIFICATIONS</string>
-	<string name="notif">Notifications</string>
-    <string name="notif_summary">New messages and general notifications.</string>
-    <string name="you_have_one_message">Vous avez un message</string>
-    <string name="notification_viewall">Voir toutes les notifications</string>
-    <string name="messages_viewall">Voir tous les messages</string>
+    <string name="notif">Notifications</string>
     <string name="applying_changes">Appliquer les changements</string>
-    <string name="you_have_n_messages">Vous avez %d messages.</string>
     <string name="sync_problem">Les cookies ne peuvent pas être synchronisés. Redémarrez l\'application.</string>
     <string name="notification_sound_description">Choisissez une sonnerie : \u0020</string>
     <string name="notifications_settings">Paramètres de notifications</string>
     <string name="notifications_settings_description">Paramètres additionnels. Choisissez l’intervalle d’actualisation, les sonneries, vibrations et LED.</string>
     <string name="facebook_notifications">Notifications Facebook</string>
-    <string name="message_notifications">Messages Facebook</string>
+    <string name="facebook_message">Messages Facebook</string>
     <string name="interval_pref">Intervalle d’actualisation</string>
     <string name="notification_sound">Sonnerie de notification</string>
     <string name="interval_pref_description_new">Les notifications seront actualisées toutes les %s.</string>
@@ -22,7 +17,18 @@
     <string name="vibrate">Vibrations</string>
     <string name="led_light">LED de notification</string>
     <string name="flashlight_as_led">Flashlight as LED</string>
-    <string name="flashlight_as_led_summary">Use the flashlight as LED for notifications (camera led).</string>
+    <string name="flashlight_as_led_summary_msg">Use the flashlight as LED for Facebook Messages (camera led).</string>
+    <string name="flashlight_as_led_summary_notif">Use the flashlight as LED for Facebook Notifications (camera led).</string>
+    <string-array name="intervalPrefTitles">
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>3 horas</item>
+        <item>6 horas</item>
+    </string-array>
     <!-- End Notifications -->
 
     <!-- General -->
@@ -38,6 +44,8 @@
     <string name="hide_sponsored_summary">Masque les contenus sponsorisés (publicités) du fil d\'actualité.</string>
     <string name="hide_birthdays_title">Masquer les anniversaires</string>
     <string name="hide_birthdays_summary">Masque les anniversaires du fil d\'actualité.</string>
+    <string name="messages_only">Messages only</string>
+    <string name="messages_only_summary">Load the message website when the app is opened.</string>
     <string name="clearcache">Clear cache on exit</string>
     <string name="clearcache_summary">It will take more time to open the app.</string>
     <!-- End general -->
@@ -59,6 +67,8 @@
     <string name="navigation_menu_settings_description">Vous pouvez afficher/masquer les objets du menu de navigation.</string>
     <string name="save_data">Enregistrer les données</string>
     <string name="save_data_summary">activé, l\'application consomment moins de données</string>
+    <string name="fab_enable">Floating Action Button</string>
+    <string name="fab_enable_summary">Show the FAB.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Poster un statut</string>
     <string name="fab_photo">Poster une photo</string>
@@ -120,7 +130,7 @@
     <string name="error_facebook_error">Quelque chose ne s’est pas bien déroulé du côté de Facebook</string>
     <string name="loading">Chargement</string>
     <string name="permission_denied">Permission refusée, impossible de terminer l’action</string>
-
+    <string name="downloaded">Downloaded</string>
     <!-- About -->
     <string name="more">Plus d\'infos et crédits</string>
     <string name="about_updates">Mise a à jour</string>
