@@ -21,14 +21,14 @@
     <string name="flashlight_as_led_summary_msg">Użyj latarki do Wiadomości z Facebooka LED (flesz aparatu).</string>
     <string name="flashlight_as_led_summary_notif">Użyj latarki do Powiadomienia z Facebooka LED (flesz aparatu).</string>
     <string-array name="intervalPrefTitles">
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>3 horas</item>
-        <item>6 horas</item>
+        <item>1 minuta</item>
+        <item>2 minuty</item>
+        <item>5 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 godzina</item>
+        <item>3 godziny</item>
+        <item>6 godzin</item>
     </string-array>
     <!-- End Notifications -->
 
@@ -45,8 +45,8 @@
     <string name="hide_sponsored_summary">Kiedy włączone, treści \„Sponsorowane\” (reklamy) będą ukryte z Aktualności.</string>
     <string name="hide_birthdays_title">Ukryj Urodziny</string>
     <string name="hide_birthdays_summary">Kiedy włączone, urodziny będą ukryte z Aktualności.</string>
-    <string name="start_in_messages">Start in messages</string>
-    <string name="start_in_messages_summary">Load the message website when the app is opened.</string>
+    <string name="start_in_messages">Zaczynaj w wiadomościach</string>
+    <string name="start_in_messages_summary">Ładuj stronę wiadomości przy otwieraniu aplikacji.</string>
     <string name="clearcache">Wyczyść pamięć podręczną przy zamykaniu</string>
     <string name="clearcache_summary">Kiedy włączone, aplikacja będzie uruchamiać się dłużej.</string>
     <!-- End general -->
