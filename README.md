@@ -14,6 +14,6 @@
 Note 2: you can send me a email with the line or file translated at: _chavesjuan400@gmail.com_**
 
 
-**Thanks a lot:**
+**Thanks a lot to all the translators!!!**
 
 
