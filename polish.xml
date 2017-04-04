@@ -46,13 +46,13 @@
     <string name="hide_birthdays_summary">Kiedy włączone, urodziny będą ukryte z Aktualności.</string>
     <string name="clearcache">Wyczyść pamięć podręczną przy zamykaniu</string>
     <string name="clearcache_summary">Kiedy włączone, aplikacja będzie uruchamiać się dłużej.</string>
-    <string name="hide_recently_commented">Hide recently commented</string>
-    <string name="hide_recently_commented_summary">X people recently commented on this.</string>
-    <string name="start_url">Start URL</string>
+    <string name="hide_recently_commented">Ukryj ostatnio skomentowane.</string>
+    <string name="hide_recently_commented_summary">X osób ostatnio skomentowało to.</string>
+    <string name="start_url">Zaczynaj w</string>
     <string-array name="Start">
-        <item>MostRecent</item>
-        <item>TopStories</item>
-        <item>Messages</item>
+        <item>Najnowsze</item>
+        <item>Najciekawsze</item>
+        <item>Wiadomości</item>
     </string-array>
     <!-- End general -->
 
@@ -74,7 +74,7 @@
     <string name="save_data">Niższe zużycie danych</string>
     <string name="save_data_summary">Ładuje Facebooka w wersji podstawowej, a także wyłącza znaczniki oraz informacje profilowe.</string>
     <string name="fab_enable">Floating Action Button</string>
-    <string name="fab_enable_summary">Show the FAB.</string>
+    <string name="fab_enable_summary">Pokaż FAB.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Opublikuj status</string>
     <string name="fab_photo">Opublikuj zdjęcie</string>
