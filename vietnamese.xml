@@ -45,8 +45,8 @@
     <string name="clearcache">Clear cache on exit</string>
     <string name="clearcache_summary">It will take more time to open the app.</string>
     <string name="hide_recently_commented">Hide recently commented</string>
-    <string name="hide_recently_commented_summary">X people recently commented on this.</string>
-    <string name="start_url">Start URL</string>
+    <string name="hide_recently_commented_summary">X người gần đây đã bình luận điều này.</string>
+    <string name="start_url">Khởi chạy URL</string>
     <string-array name="Start">
         <item>MostRecent</item>
         <item>TopStories</item>
@@ -83,8 +83,8 @@
     <string name="navigation_menu_settings_description">Bạn có thể hiển thị/ẩn các mục trong điều hướng menu.</string>
     <string name="save_data">Lưu dữ liệu</string>
     <string name="save_data_summary">Khi được kích hoạt, tự động cấu hình ứng dụng sẽ lưu dữ liệu</string>
-    <string name="fab_enable">Floating Action Button</string>
-    <string name="fab_enable_summary">Show the FAB.</string>
+    <string name="fab_enable">Nút FA</string>
+    <string name="fab_enable_summary">Hiện FAB.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Đăng trạng thái</string>
     <string name="fab_photo">Đăng ảnh</string>
@@ -143,8 +143,8 @@
     <string name="error_facebook_error">Một cái gì đó đã diễn ra sai lúc kết thúc Facebook</string>
     <string name="loading">Đang nạp</string>
     <string name="permission_denied">Quyền truy cập bị từ chối, không thể hoàn tất thao tác</string>
-    <string name="downloaded">Downloaded</string>
-	<string name="bookmarks">Bookmarks</string>
-    <string name="new_bookmark">Added:</string>
-    <string name="remove_bookmark">Removed:</string>
+    <string name="downloaded">Đã tải</string>
+	<string name="bookmarks">Bookmark</string>
+    <string name="new_bookmark">Đã thêm:</string>
+    <string name="remove_bookmark">Đã gỡ bỏ:</string>
 </resources>
